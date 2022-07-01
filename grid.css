@@ -1,0 +1,42 @@
+*{
+    margin: 0  ;
+    padding: 0;
+ }
+ .container div {
+     font-size: 40px;
+     text-align: center;
+     color: white;
+
+
+ }
+
+ .header {
+     background-color: rgb(7, 182, 182);
+ }
+
+ .menu {
+     background-color: rgb(59, 59, 218);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .content {
+     background-color: palevioletred;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .side-1 {
+     background-color: rgb(72, 112, 12);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+  
+
+ .footer {
+     background-color: goldenrod;
+ }
